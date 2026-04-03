@@ -1,0 +1,1 @@
+{ "name": "hpln-screenshot-api", "version": "1.0.0", "description": "Puppeteer Screenshot service for HudPost Legal Notices", "main": "server.js", "scripts": { "start": "node server.js" }, "dependencies": { "express": "^4.18.2", "puppeteer": "^21.1.0" } }
